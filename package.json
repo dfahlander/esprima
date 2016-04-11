@@ -8,10 +8,6 @@
     "esvalidate": "./bin/esvalidate.js"
   },
   "version": "3.0.0-dev",
-  "files": [
-    "bin",
-    "dist/esprima.js"
-  ],
   "engines": {
     "node": ">=0.10.0"
   },
